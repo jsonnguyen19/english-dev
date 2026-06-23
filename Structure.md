@@ -71,3 +71,17 @@ Tôi thích cái A hơn cái B
 12. It's time you faced reality
 13. It's time for us to take a short break
 14. It's high time did some excercise / it's high time i worked out
+
+\*\* Phần 4: Would rather... (than) hoặc Prefer... (to): S + would rather + V-nguyên-mẫu + (than + V-nguyên-mẫu)
+(Thà làm việc này hơn việc kia / Thích cái này hơn cái kia)
+
+1. I'd rather fix this bug now than leave it for tomorrow
+2. I prefer using Javscript to using vanilla Javascript
+3. I'd rather rewrite from scratch than fix this old code
+4. I prefer working on Linux to working on windows
+5. I prefer drinking coffee to drinking
+6. I'd rather use MUI than write custom css
+7. I'd rather work remotely than go to office every day
+8. I'd rather learn by myself than wait for others to guide me
+9. I'd rather stay home tonight than go out drinking
+10. I'd rather use chatgpt for coding than write code by myselft
