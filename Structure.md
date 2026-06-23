@@ -61,3 +61,13 @@ Tôi thích cái A hơn cái B
 2. It's about time I learned English
 3. It's high time we deployed my project to production
 4. It's time for you to get a haircut. Your hair is covering your eyes
+5. It's about time I got up
+6. It's time for you to find a new job
+7. It's time for us to get lunch
+8. It's time We fixed this bug
+9. It's high time I studied English hard
+10. It's about time we upgraded our system
+11. It's time form me to pick up my food order
+12. It's time you faced reality
+13. It's time for us to take a short break
+14. It's high time did some excercise / it's high time i worked out
