@@ -67,7 +67,7 @@ Tôi thích cái A hơn cái B
 8. It's time We fixed this bug
 9. It's high time I studied English hard
 10. It's about time we upgraded our system
-11. It's time form me to pick up my food order
+11. It's time for me to pick up my food order
 12. It's time you faced reality
 13. It's time for us to take a short break
 14. It's high time did some excercise / it's high time i worked out
