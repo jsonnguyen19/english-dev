@@ -85,3 +85,9 @@ Tôi thích cái A hơn cái B
 8. I'd rather learn by myself than wait for others to guide me
 9. I'd rather stay home tonight than go out drinking
 10. I'd rather use chatgpt for coding than write code by myselft
+
+11. I'd rather not go to work than work on sunday
+12. I'd rather use PostgrelSQL database than use MySql database
+13. I'd rather spend time optimizing code than application run slowly
+14. I'd rather cook by myself than eat out
+15. I'd rather off my work than go to office every day
