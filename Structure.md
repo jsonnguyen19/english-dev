@@ -1,4 +1,5 @@
-Phần 1: The most important thing is to V/Ving ... / The key is to ...
+\*\* Phần 1: The most important thing is (to V/Ving) ... / The key is to ...
+Điều quan trọng nhất là/chia khóa là
 
 1. The most important thing is fixing this bug first
 2. The key is to understand what users want
@@ -6,7 +7,8 @@ Phần 1: The most important thing is to V/Ving ... / The key is to ...
 4. The key is to focus on one thing at a time
 5. The most important thing is listening to others
 
-Phần 2: I prefer [A] to [B]
+\*\* Phần 2: I prefer [A] to [B]
+Tôi thích cái A hơn cái B
 
 6. I prefer writting custom CSS to using libraries
 7. I prefer using a vertical monitor to a horizontal monitor
@@ -45,3 +47,17 @@ Phần 2: I prefer [A] to [B]
 1. I prefer implementing the UI to implementing the server API and database
 2. The most important thing when building a website is designing the architecture, the database, the system, and the UI
 3. The key is to determine the project scope and identify user needs
+
+\*\* Phần 3: It's time (for someone) to do something / It's time someone did something
+(Đã đến lúc phải làm gì / Đã đến lúc ai đó phải làm gì rồi)
+
+1. It's time for us to optimize this code
+2. It's time I went to bed
+3. It's time I learned English
+
+Để nhấn mạnh hơn nữa kiểu "Trễ lắm rồi, phải làm ngay thôi!", người bản xứ thường thêm chữ high hoặc about vào ngay trước chữ time.
+
+1. It's high time I went to bed
+2. It's about time I learned English
+3. It's high time we deployed my project to production
+4. It's time for you to get a haircut. Your hair is covering your eyes
