@@ -15,3 +15,14 @@
 53. I've managed to fix the issue with css layout on safari screeen and now i'm moving on to the dark mode feature
 54. I've managed to fix the issue with async await when calling APIs and now i'm moving on to the admin dashboard
 55. I've managed to fix the issue with updating react 19 and now i'm moving on to Tacos account creation in the Portal Lab App
+
+\*\* Phần 3: The main takeaway from + [Buổi họp / Tài liệu / Cuộc thảo luận] + is that + [Mệnh đề (S + V)]
+(Điểm cốt lõi/Điều quan trọng nhất rút ra từ... là...)
+
+The main takeaway from the meeting is that we need to ship this feature by Monday.
+
+56. The main takeaway from this API document is that we need to use a token to verify every request
+57. The main takeaway from the discussion yesterday is that current design is not optimized for mobile
+58. The main takeaway from the feedback of our client is that we need to make the UI simpler
+59. The main takeaway from the research about react 19 is that we can remove unnessary useMemo hooks
+60. The main takeaway from working in office is that we shoudn't share too much personal information with everyone
