@@ -20,3 +20,14 @@ Example: Just to be clear, are you saying that we need to redesign the whole lan
 38. Just to be clear, are you saying that i need to rewrite this entire component?
 39. Correct me if i'm wrong, but this API doesn't pass user_id in the body?
 40. Just to be clear, are you saying that my salary will be sent to me on the last day of the month?
+
+\*\* Phần 3: If I understand correctly, + [Mệnh đề (S + V)]
+(Nếu tôi hiểu đúng thì...)
+
+Example: If i understand correctly, we need to filter the data before rendering it to the UI
+
+41. If i understand correctly, the system will automatically send an email to users after they register
+42. If i understand correctly, this bug only happens on mobile, not on desktop
+43. If i understand correctly, we need to release this feature before next week
+44. If i understand correctly, you want me to fix this UI like to match the figma design
+45. If i understand correctly, all the questions for the tickets of teams' members will be forwarded to my leader
