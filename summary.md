@@ -13,3 +13,4 @@ status_updates.md
 \*\* Phần 1: I'm currently working on + [Task/Tính năng] + and I've run into a blocker with + [Cái lỗi/Chỗ bị nghẽn]
 \*\* Phần 2: I've managed to fix the issue with + [Tên lỗi/Bug] + and now I'm moving on to + [Task mới (V-ing hoặc Danh từ)]
 \*\* Phần 3: The main takeaway from + [Buổi họp / Tài liệu / Cuộc thảo luận] + is that + [Mệnh đề (S + V)]
+\*\*Phần 4: To ensure [Mục tiêu / Deadline], my next step is to [Hành động] + and I'll keep you posted once it's done.

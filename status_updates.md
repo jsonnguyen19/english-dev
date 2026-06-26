@@ -26,3 +26,24 @@ The main takeaway from the meeting is that we need to ship this feature by Monda
 58. The main takeaway from the feedback of our client is that we need to make the UI simpler
 59. The main takeaway from the research about react 19 is that we can remove unnessary useMemo hooks
 60. The main takeaway from working in office is that we shoudn't share too much personal information with everyone
+
+\*\*Phần 4: To ensure [Mục tiêu / Deadline], my next step is to [Hành động] + and I'll keep you posted once it's done.
+(Để đảm bảo [Mục tiêu], bước tiếp theo của tôi là [Hành động] + và tôi sẽ cập nhật cho bạn ngay khi xong.)
+
+Bạn vừa tối ưu xong cấu hình region trên Vercel giúp giảm response time từ 1-2s xuống còn 425ms. Bây giờ bạn chuyển sang tối ưu nốt phần UI/UX của trang học tập (Sonsery) để kịp demo cho sprint này.
+
+I've managed to fix the region configuration issues on Vercel, which successfully brought response times down from 1-2s to 425ms, I'm moving on to optimizing the UI/UX of the sonsery learning page. To ensure a smooth demo for this sprint, my next step is finalize the components, and i'll keep you posted once it's done.
+
+Bạn gặp lỗi (blocker) với cấu hình Husky / Git hooks trên môi trường WSL (Windows Subsystem for Linux) làm ảnh hưởng đến tiến độ commit.
+Bạn cần làm rõ xem team có bắt buộc dùng hook này không.
+
+I'm having some issues with Husky on my SWL setup, which is bloking my commits
+Just to be clear, is the husky setup mandatory for this repository
+
+Hey team, I'm having some issues with Husky hooks on my WSL setup, which is blocking my commits, Just to be clear, is the Husky setup mandatory for this repository? If not, can I bypass it for now to keep moving
+
+Để chứng minh cấu trúc gốc vẫn dùng cực mượt khi hai ý tách rời nhau, bạn xem thử tình huống này nhé:
+Task đang làm: Viết API Login (working on authentication)
+Blocker (Vấn đề gây nghẽn): Server của bên thứ ba (AWS) đang sập (AWS server is down).
+
+I'm currently working on authentication and I've run into a blocker with the AWS server deployment
